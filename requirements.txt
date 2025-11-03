@@ -1,0 +1,5 @@
+numpy==1.26.5
+opencv-python==4.8.1.78
+pyqt5==5.15.9
+insightface==0.8.5
+cryptography==41.0.3
